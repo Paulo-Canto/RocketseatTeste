@@ -31,6 +31,3 @@ pnpm-debug.log*
 
 # Bundle analyzer
 stats.html
-
-# Generated (optional: commit if team prefers)
-# src/routeTree.gen.ts

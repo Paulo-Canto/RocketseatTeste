@@ -1,4 +1,4 @@
-# SPA blueprint
+# RocketseatTeste
 
 Neutral single-page app scaffold: layered architecture (`core`, `ui`, `pattern`, `layouts`, `features`, `routes`, `mocks`), TanStack Router (file-based) + Query + Form + Table + Virtual, Zustand, Valibot, MSW, Vitest.
 
