@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Test & coverage
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Caches
+*.tsbuildinfo
+.vite/
+.cache/
+
+# Editor
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Bundle analyzer
+stats.html
+
+# Generated (optional: commit if team prefers)
+# src/routeTree.gen.ts
