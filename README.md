@@ -25,7 +25,7 @@ pnpm dev
 | `pnpm build` | Typecheck + production build |
 | `pnpm preview` | Preview production build |
 | `pnpm lint` | ESLint (+ boundaries, oxlint rule turns) |
-| `pnpm lint:ox` | Oxlint CLI |
+| `pnpm lint:ox` | Oxlint CLI (requires optional native binding; run `pnpm approve-builds` if install skipped build scripts) |
 | `pnpm test` | All test suites |
 | `pnpm test:unit` | Unit tests (`core`, `features`) |
 | `pnpm test:browser` | UI component tests (RTL + jsdom) |
