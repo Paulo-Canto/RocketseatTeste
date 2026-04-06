@@ -1,0 +1,11 @@
+{
+  "app.title": "Blueprint",
+  "nav.dashboard": "Painel",
+  "nav.items": "Itens",
+  "nav.settings": "Configurações",
+  "nav.profile": "Perfil",
+  "auth.login": "Entrar",
+  "auth.register": "Registrar",
+  "common.loading": "Carregando",
+  "common.error": "Algo deu errado"
+}
